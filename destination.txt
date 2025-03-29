@@ -1,0 +1,1 @@
+This is a very long string that we will write to a file using a small buffer size to demonstrate multiple iterations in the loop. The quick brown fox jumps over the lazy dog. Java I/O streams are powerful tools for handling input and output operations. Buffered streams can improve performance by reducing the number of I/O operations.
